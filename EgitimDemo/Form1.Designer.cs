@@ -346,28 +346,28 @@
             this.tabPage2.Location = new System.Drawing.Point(4, 25);
             this.tabPage2.Name = "tabPage2";
             this.tabPage2.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage2.Size = new System.Drawing.Size(918, 741);
+            this.tabPage2.Size = new System.Drawing.Size(733, 587);
             this.tabPage2.TabIndex = 1;
             this.tabPage2.Text = "Modül-3";
             this.tabPage2.UseVisualStyleBackColor = true;
             // 
             // groupBox5
             // 
-            this.groupBox5.BackColor = System.Drawing.Color.PaleTurquoise;
+            this.groupBox5.BackColor = System.Drawing.Color.DeepSkyBlue;
             this.groupBox5.Controls.Add(this.button10);
             this.groupBox5.Controls.Add(this.button11);
             this.groupBox5.Controls.Add(this.txtToplanacakRakamlar);
             this.groupBox5.Dock = System.Windows.Forms.DockStyle.Fill;
             this.groupBox5.Location = new System.Drawing.Point(3, 3);
             this.groupBox5.Name = "groupBox5";
-            this.groupBox5.Size = new System.Drawing.Size(912, 735);
+            this.groupBox5.Size = new System.Drawing.Size(727, 581);
             this.groupBox5.TabIndex = 38;
             this.groupBox5.TabStop = false;
             this.groupBox5.Text = "Modül-3";
             // 
             // button10
             // 
-            this.button10.Location = new System.Drawing.Point(16, 24);
+            this.button10.Location = new System.Drawing.Point(294, 199);
             this.button10.Name = "button10";
             this.button10.Size = new System.Drawing.Size(125, 49);
             this.button10.TabIndex = 10;
@@ -376,7 +376,7 @@
             // 
             // button11
             // 
-            this.button11.Location = new System.Drawing.Point(16, 119);
+            this.button11.Location = new System.Drawing.Point(294, 294);
             this.button11.Name = "button11";
             this.button11.Size = new System.Drawing.Size(125, 36);
             this.button11.TabIndex = 11;
@@ -385,7 +385,7 @@
             // 
             // txtToplanacakRakamlar
             // 
-            this.txtToplanacakRakamlar.Location = new System.Drawing.Point(16, 91);
+            this.txtToplanacakRakamlar.Location = new System.Drawing.Point(294, 266);
             this.txtToplanacakRakamlar.Name = "txtToplanacakRakamlar";
             this.txtToplanacakRakamlar.Size = new System.Drawing.Size(125, 22);
             this.txtToplanacakRakamlar.TabIndex = 12;
@@ -395,20 +395,20 @@
             this.tabPage3.Controls.Add(this.groupBox6);
             this.tabPage3.Location = new System.Drawing.Point(4, 25);
             this.tabPage3.Name = "tabPage3";
-            this.tabPage3.Size = new System.Drawing.Size(918, 741);
+            this.tabPage3.Size = new System.Drawing.Size(733, 587);
             this.tabPage3.TabIndex = 2;
             this.tabPage3.Text = "Modül-4";
             this.tabPage3.UseVisualStyleBackColor = true;
             // 
             // groupBox6
             // 
-            this.groupBox6.BackColor = System.Drawing.Color.AntiqueWhite;
+            this.groupBox6.BackColor = System.Drawing.Color.DeepSkyBlue;
             this.groupBox6.Controls.Add(this.numericUpDown1);
             this.groupBox6.Controls.Add(this.button12);
             this.groupBox6.Dock = System.Windows.Forms.DockStyle.Fill;
             this.groupBox6.Location = new System.Drawing.Point(0, 0);
             this.groupBox6.Name = "groupBox6";
-            this.groupBox6.Size = new System.Drawing.Size(918, 741);
+            this.groupBox6.Size = new System.Drawing.Size(733, 587);
             this.groupBox6.TabIndex = 0;
             this.groupBox6.TabStop = false;
             this.groupBox6.Text = "Modül-4";
